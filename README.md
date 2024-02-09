@@ -15,9 +15,6 @@
 - 👨‍💻 As an ITI student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, HTML, CSS and MYSQL, or anything related to web development & database development .
 - ⚡ Fun Fact: I'm a coffee and cats enthusiast.
-- 👨‍💻 Check out my portfolio at https://.app/ to see some of the projects I've worked on.
-
-
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/sara-mohamed-57868b287/" target="_blank"><img src="https://img.shields.io/badge/-Sara%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
