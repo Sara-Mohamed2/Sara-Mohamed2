@@ -32,6 +32,5 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=007ACC)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress&logoColor=007ACC)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql&logoColor=007ACC)&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saramohamed&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+
 
