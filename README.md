@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Web and database developer particularly drawn to the intricacies of MySQL. 
-- 👨‍💻 As an ITI student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As an ITI student, I'm constantly learning new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, HTML, CSS and MYSQL, or anything related to web development & database development.
 - ⚡ Fun Fact: I'm a coffee and cats enthusiast.
 ### Connect with Me :
